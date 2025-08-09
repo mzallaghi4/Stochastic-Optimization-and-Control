@@ -12,7 +12,8 @@ The project addresses both classical and modern techniques in stochastic control
 •	• Reinforcement learning methods for control
 
 We implement and analyze practical problems in quantitative finance, such as portfolio optimization. 
-[Mean-Variance Optimization.ipynb](notebooks/Mean-Variance_Optimization.ipynb)
+
+[Mean-Variance Optimization.ipynb](Mean-Variance_Optimization.ipynb)
 
 The primary focus is on applying advanced topics in portfolio management, including;
 - Reinforcement learning approaches 
