@@ -27,4 +27,11 @@ The primary focus is on applying advanced topics in portfolio management, includ
 #### Reinforcement Learning:
 Training agents to learn optimal policies for trading, portfolio management, and risk mitigation through interaction with financial environments.
 
-Reinforcement Learning
+## Reinforcement Learning for Quantitative Trading
+
+This project includes a reinforcement learning framework for developing and evaluating trading strategies in financial markets.
+
+- 📄 [RL_Trading.py](https://github.com/mzallaghi4/Stochastic-Optimization-and-Control/blob/master/ReinforcementLearning/RL_Trading.py): Core implementation of the RL agent and trading environment.
+
+
+
