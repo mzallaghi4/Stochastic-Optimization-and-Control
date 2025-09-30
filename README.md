@@ -13,18 +13,20 @@ The project addresses both classical and modern techniques in stochastic control
 
 **Quantitative Finance Applications:** 
 Portfolio optimization, algorithmic trading strategies, asset allocation, and risk control.
-
 We implement and analyze practical problems in quantitative finance, such as portfolio optimization. 
-
-[Mean-Variance Optimization.ipynb](Mean-Variance_Optimization.py)
-
-The primary focus is on applying advanced topics in portfolio management, including;
+The main focus is on applying advanced topics in portfolio management, including;
 - Reinforcement learning approaches 
 - Mean-field theory
 
 
+### Portfolio optimization techniques
+- Mean-variance optimization
+- Robust optimization
 
-#### Reinforcement Learning:
+[Mean-Variance Optimization.ipynb](Mean-Variance_Optimization.py)
+
+
+### Reinforcement Learning:
 Training agents to learn optimal policies for trading, portfolio management, and risk mitigation through interaction with financial environments.
 
 ## Reinforcement Learning for Quantitative Trading
@@ -40,7 +42,7 @@ Portfolio management is the process of selecting, monitoring, and adjusting a co
 
 Reinforcement Learning offers a dynamic, data-driven approach that enables an agent to learn optimal allocation strategies by interacting with the market environment.
 
-##### RL Algorithms for Portfolio Management
+#### RL Algorithms for Portfolio Management
 
 **DDPG (Deep Deterministic Policy Gradient)**
 
