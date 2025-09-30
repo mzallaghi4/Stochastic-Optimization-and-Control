@@ -42,8 +42,11 @@ Reinforcement Learning offers a dynamic, data-driven approach that enables an ag
 
 ##### RL Algorithms for Portfolio Management
 
-- DDPG (Deep Deterministic Policy Gradient)
+**DDPG (Deep Deterministic Policy Gradient)**
 DDPG is an off-policy, model-free, actor-critic algorithm designed for continuous action spaces.
-
-- SAC (Soft Actor-Critic)
+- [DDPG Algorithm Implementation](https://github.com/mzallaghi4/Stochastic-Optimization-and-Control/blob/master/ReinforcementLearning/DDPG.py): Deep Deterministic Policy Gradient method for continuous action trading environments.
+- 
+**SAC (Soft Actor-Critic)**
 SAC is an off-policy, model-free actor-critic algorithm based on the maximum entropy RL framework.
+
+- [SAC Algorithm Implementation](https://github.com/mzallaghi4/Stochastic-Optimization-and-Control/blob/master/ReinforcementLearning/SAC.py): Soft Actor-Critic algorithm offering stable and efficient learning for portfolio management.
