@@ -23,14 +23,18 @@ The main focus is on applying advanced topics in portfolio management, including
 - Mean-field theory
 
 
-### Portfolio optimization techniques
-- Mean-variance optimization
-- Robust optimization
+## Portfolio optimization techniques
+Portfolio optimization is the process of selecting the best distribution of assets in a portfolio to achieve specific investment objectives, such as maximizing return for a given level of risk or minimizing risk for a desired return.
+
+- Mean-variance optimization: Balances trade-offs between return and risk by constructing an "efficient frontier" of optimal portfolios.
+- Robust optimization: Accounts for uncertainty and estimation errors in inputs by optimizing portfolios against worst-case scenarios.
+- Dynamic Portfolio Optimization: Extends static models to multi-period settings, optimizing over time considering changing market conditions.
 
 [Mean-Variance Optimization.ipynb](Mean-Variance_Optimization.py)
 
 
-### Reinforcement Learning:
+
+## Reinforcement Learning:
 Training agents to learn optimal policies for trading, portfolio management, and risk mitigation through interaction with financial environments.
 
 ## Reinforcement Learning for Quantitative Trading
