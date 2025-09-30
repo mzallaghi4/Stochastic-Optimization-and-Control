@@ -34,4 +34,16 @@ This project includes a reinforcement learning framework for developing and eval
 - 📄 [RL_Trading.py](https://github.com/mzallaghi4/Stochastic-Optimization-and-Control/blob/master/ReinforcementLearning/RL_Trading.py): Core implementation of the RL agent and trading environment.
 
 
+## Reinforcement Learning for Portfolio Management
 
+Portfolio management is the process of selecting, monitoring, and adjusting a collection of financial assets (stocks, bonds, ETFs, etc.) to meet specific investment goals, such as maximizing returns or minimizing risk over time.
+
+Reinforcement Learning offers a dynamic, data-driven approach that enables an agent to learn optimal allocation strategies by interacting with the market environment.
+
+##### RL Algorithms for Portfolio Management
+
+- DDPG (Deep Deterministic Policy Gradient)
+DDPG is an off-policy, model-free, actor-critic algorithm designed for continuous action spaces.
+
+- SAC (Soft Actor-Critic)
+SAC is an off-policy, model-free actor-critic algorithm based on the maximum entropy RL framework.
