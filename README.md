@@ -13,6 +13,7 @@ The project addresses both classical and modern techniques in stochastic control
 
 **Quantitative Finance Applications:** 
 Portfolio optimization, algorithmic trading strategies, asset allocation, and risk control.
+
 We implement and analyze practical problems in quantitative finance, such as portfolio optimization. 
 The main focus is on applying advanced topics in portfolio management, including;
 - Reinforcement learning approaches 
