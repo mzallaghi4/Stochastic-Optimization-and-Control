@@ -6,11 +6,12 @@ Stochastic control is a mathematical framework used to make optimal decisions in
 The goal is to implement, analyze, and compare various stochastic control techniques—from classical methods to modern machine learning approaches—with applications to real-world problems in portfolio optimization, risk management, option pricing, dynamic asset allocation, and algorithmic trading.
 
 The project addresses both classical and modern techniques in stochastic control, including: 
-•	Convex optimization in stochastic environments 
-•	Discrete-time stochastic control 
-• Continuous-time stochastic control 
-•	Reinforcement learning methods
-•	Mean-field Control
+
+-	Convex optimization in stochastic environments 
+- Discrete-time stochastic control 
+- Continuous-time stochastic control 
+- Reinforcement learning methods
+- Mean-field Control
 
 
 **Quantitative Finance Applications:** 
