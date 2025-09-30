@@ -37,6 +37,19 @@ Portfolio optimization is the process of selecting the best distribution of asse
 ## Reinforcement Learning:
 Training agents to learn optimal policies for trading, portfolio management, and risk mitigation through interaction with financial environments.
 
+- Value-Based Methods: Learn the value (expected future reward) of actions in states.
+- Policy-Based Methods: Directly learn the policy (mapping from states to actions).
+- Actor-Critic Methods: Combine value-based and policy-based approaches (Actor proposes actions; Critic evaluates them).
+
+RL models the portfolio management problem as a Markov Decision Process (MDP):
+
+- State (S): Market and portfolio conditions (e.g., asset prices, portfolio weights, economic indicators).
+- Action (A): Portfolio rebalancing decisions (e.g., buy/sell/hold or portfolio weight adjustments).
+- Reward (R): Portfolio return, risk-adjusted return, or other performance metrics.
+- Policy (π): A strategy for choosing actions based on states.
+- Goal: Maximize cumulative reward over time (e.g., maximize return, Sharpe ratio).
+
+
 ## Reinforcement Learning for Quantitative Trading
 
 This project includes a reinforcement learning framework for developing and evaluating trading strategies in financial markets.
