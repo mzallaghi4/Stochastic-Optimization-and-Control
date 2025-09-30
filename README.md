@@ -1,4 +1,4 @@
-#  Stochastic Optimization and Control 
+## Stochastic Optimization and Control & Reinforcement Learning  
 
 Stochastic control is a mathematical framework used to make optimal decisions in systems influenced by random noise.
 
@@ -9,7 +9,10 @@ The project addresses both classical and modern techniques in stochastic control
 •	• Convex optimization in stochastic environments 
 •	• Discrete-time stochastic control 
 •	• Continuous-time stochastic control 
-•	• Reinforcement learning methods for control
+•	• Reinforcement learning methods
+
+**Quantitative Finance Applications:** 
+Portfolio optimization, algorithmic trading strategies, asset allocation, and risk control.
 
 We implement and analyze practical problems in quantitative finance, such as portfolio optimization. 
 
@@ -18,3 +21,10 @@ We implement and analyze practical problems in quantitative finance, such as por
 The primary focus is on applying advanced topics in portfolio management, including;
 - Reinforcement learning approaches 
 - Mean-field theory
+
+
+
+#### Reinforcement Learning:
+Training agents to learn optimal policies for trading, portfolio management, and risk mitigation through interaction with financial environments.
+
+Reinforcement Learning
