@@ -11,9 +11,14 @@ We define the continuous-time stochastic control problem as:
 
 This is a standard formulation for a continuous-time decision-making problem under uncertainty.
 
+----
+
 Two primary solution methods for Stochastic Control problems:
 - Dynamic Programming (DP)
 - Stochastic Maximum Principle (SMP)
 
+----
 
 **Example**: The Merton Portfolio Problem
+
+It provides a closed-form solution for optimal asset allocation.
