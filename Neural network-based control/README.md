@@ -23,8 +23,8 @@ PINNs approximate the value function and control policy using neural networks wh
 - PINNs implementation
 Use a PINN to solve the continuous-time Merton optimal portfolio allocation problem
 
-PINN_Control.ipynb
-https://github.com/mzallaghi4/Stochastic-Optimization-and-Control/blob/master/Neural%20network-based%20control/PINN_Control.ipynb
+[PINN Control Notebook](https://github.com/mzallaghi4/Stochastic-Optimization-and-Control/blob/master/Neural%20network-based%20control/PINN_Control.ipynb)
+
 
 
 ### Deep Neural Operator Framework
