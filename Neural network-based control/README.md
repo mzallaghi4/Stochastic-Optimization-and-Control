@@ -14,7 +14,7 @@ Supports:
 
 Built with PyTorch.
 
-
+------
 ### Physics-Informed Neural Networks
 
 PINNs approximate the value function and control policy using neural networks while satisfying the HJB PDE constraints and the stochastic dynamics. 
@@ -26,14 +26,14 @@ Use a PINN to solve the continuous-time Merton optimal portfolio allocation prob
 [PINN Control Notebook](https://github.com/mzallaghi4/Stochastic-Optimization-and-Control/blob/master/Neural%20network-based%20control/PINN_Control.ipynb)
 
 
-
+------
 ### Deep Neural Operator Framework
 DeepONet Architecture
 - Maps control function u(x) to system state y(x)
 
 Learns operators rather than individual solutions.
 
-
+------
 ### Physics-Informed Neural Operators
 
 PINO combines: Operator Learning with Physics Constraints
